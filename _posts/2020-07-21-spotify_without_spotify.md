@@ -46,7 +46,7 @@ To let spotifyd log into your spotify account you have to choose some form of au
 
 Now just start and enable the spotifyd service with systemd:
 
-~~~sh
+~~~shell
 $ systemctl --user start spotifyd.service
 $ systemctl --user enable spotifyd.service
 ~~~
@@ -61,11 +61,12 @@ The only downside of spotPRIS2 that I could find is that the name of the dbus in
 But first we need to make spotifyd and spotPRIS2 autostart with the system. For that I use their systemd services. To tell spotPRIS2 for which device it should create an interface you need to add a parameter to the spotpris2.service file located at `/usr/lib/systemd/user/spotpris2.service`
 For that just change the line containing `ExecStart`:
 
-~~~
+~~~shell
 %%/usr/lib/systemd/user/spotpris2.service
 
 ExecStart=/usr/bin/spotpris2 -d='{your systemd spotify device}'
 ~~~
+
 The device name has to be the exact same as in your `spotifyd.conf` file!
 
 To make this setup robust against the random name changes from spotpris2, I decided to declare a global variable that I can read whenever I want to contact the interface. This can be done by including this snippet in your ~/.xinitrc file (or whichever file your system reads on startup).
@@ -78,7 +79,7 @@ export SPOTPRIS_INTERFACE=${tmp%\"}
 
 With this you can bind your multimedia keys to control your music. It depends on your window manager how to configure this. The relevant keys and commands are:
 
-~~~sh
+~~~shell
 # Play/Pause
 Key: XF86AudioPlay
 Command: dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotpris.$SPOTPRIS_INTERFACE /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.PlayPause
