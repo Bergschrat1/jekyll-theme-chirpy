@@ -2,7 +2,9 @@
 layout: post
 title:  "Spotify without Spotify"
 date: 2020-07-21
-background: 
+categories: [Linux, Tutorials]
+tags: [configuration, spotify, linux, tutorial]
+comments: false
 ---
 
 # The Problem

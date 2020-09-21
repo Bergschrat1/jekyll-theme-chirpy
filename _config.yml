@@ -10,7 +10,7 @@
 
 title: GeekReadRepeat                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Personal blog with a focus on books and geeky stuff. # it will display as the sub-title
 
 description: This is my little blog where I will post stuff about tech and books.                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
@@ -74,7 +74,7 @@ timezone: Europe/Berlin
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true

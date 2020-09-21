@@ -2,7 +2,6 @@
 layout: post
 title:  "Thoughts about thinking"
 date: 2020-06-04
-background: /img/posts/thoughts_about_thinking/thinking_cover.jpg
 ---
 
 Since I have already covered the 'geek' part in the name of my website I decided that it's time to write something about the books I'm reading.
