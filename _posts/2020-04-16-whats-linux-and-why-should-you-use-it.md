@@ -2,7 +2,8 @@
 layout: post
 title:  "What's Linux and why should you use it?"
 date: 2020-04-16
-background: /img/posts/areyouahacker/linux_interface.png
+categories: [Linux, Tutorials]
+tags: [linux, tutorial]
 ---
 <!--
 Structure:
