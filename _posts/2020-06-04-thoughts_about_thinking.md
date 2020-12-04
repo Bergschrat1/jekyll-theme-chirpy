@@ -6,18 +6,6 @@ date: 2020-06-04
 
 Since I have already covered the 'geek' part in the name of my website I decided that it's time to write something about the books I'm reading.
 
-# Reading background
-
-A little background on my reading habits:
-
-For the longest part of my life I've been reading classic fantasy books. As a child my favourite books were the *Narnia Chronicles*, *Eragon*, *The Hobbit* and also some German fantasy books like *The Elves* by Bernhard Hennen and *The Dwarves* by Markus Heitz. Most of my stupid ideas as a child I got from adventure books like *Huckleberry Finn*, *Tom Sawyer* and the western fiction books by Karl May.
-
-When I was old enough to understand his humor I got hooked by Terry Pratchett. My favorites are all the Death books, the Witches series (especially Tiffany Aching), the City watch series, the Wizards series and from the non-Discworld books I absolutely loved *Nation*, *Dodger* and the *Nome Trilogy*. Now that I write this I realize that basically **all** Terry Pratchett books are my favorite Terry Pratchett books. :D
-
-While I love fantasy books, they rarely challenged the reader's way of thinking. Instead they create new worlds with new laws of nature and societies. This can be very nice when the reader wants to escape the real world but it can become very boring when the reader wants to learn something about the existing world and society.
-
-That's why last year I started reading some non-fictional books and have been enjoying it since. It is refreshing to get new perspectives on the real world instead of learning about the fictional worlds in fantasy books.
-
 # Thinking, fast and slow
 
 Currently I'm reading the book 'Thinking, fast and slow' from Daniel Kahneman. The author is an psychologist who earned the nobel prize in economy for his work in the field of the behavioral sciences. In this book he summarizes his lives work while his goal is to make it understandable even for layman like me.
@@ -26,11 +14,11 @@ Behavioral sciences may not sound appealing to everyone but the author is able t
 
 # Thoughts about thinking
 
-Starting here I will go chronologically through the chapters of the book and write down the things that I find most important and interesting.
+I will not talk about every chapter of the book but only about the ones that I found most interesting.
 
 ## Chapter 1: 'The Characters of the Story'
 
-In this chapter the most important thought of the book is introduced: The two systems of the mind.
+In this chapter the most important concept of the book is introduced: The two systems of the mind.
 The author distinguishes between System 1 and System 2. These are just names for two operational states of the mind. The two systems are responsible for handling different kinds of problems and get engaged whenever the mind feels like one of the systems is required to solve a problem.
 
 It is important to understand that both systems are necessary for a human to operate and none of them is better or worse.
@@ -52,4 +40,33 @@ The use of system 2 has a significant impact on the energy use of the body, whic
 
 In this chapter the author describes how the mind keeps up effort and distributes it to different tasks. Effort is handled like a limited resource and the mind tries to use it up as little as possible. The author found out that the amount of effort that the mind uses can be measured by measuring pupil dilation. Apparently the pupil gets bigger once the mind activates system 2. This has been proven in many experiments where the participants were looking in a camera while solving mathematical problems. The method was so reliable that the experimenters were able to see exactly when a person started a calculation and also when they gave up because the calculation was too hard.
 
+## 'The Law of Small Numbers'
+## 'Anchors'
+
+Understanding the concept of anchors can be super useful in daily life. It can even save you a lot of money.
+
+What the author means by anchors is the fixation of the mind on random values when making choices. He showed this with an interesting experiment. Please think about the following questions:
+
+1. Do you think the number of members in the United Nations is below or above 63?
+2. What do you think is the number of members in the United Nations?
+
+There were many studies done where the test subjects had to answer these or similar questions. The result is surprising:
+
+Even though the people have no indication that the number 63 has anything to do with the members of the UN, their answers for question 2 still clustered around 63.
+
+There are many other experiments like this where it can be seen that even experts are influenced by the anchoring effect when asked questions about their expert topic.
+
+For example real estate agents that are shown a made-up housing advertisement will cluster their estimate for the 'real value' of the house around the made-up price.
+
+It's not surprising that all agents that were subjected to this experiment denied that their estimate was influenced by the original advertisement.
+
+But how can you utilize this effect to save money? That's quite easy. The next time you are in a situation where you can bargain about the price of an object which you want to buy just start your offer with a ridicules low price.
+
+For example when you want to buy a used bike that was advertised for 100€ start by saying 'How about 30€'. Of course the seller will never agree to this price but by doing this you have already 'dropped the anchor'.
+It is scientifically proven that the final outcome of the bargain will be much lower than if you started with a more realistic offer like 80€.
+
+## Chapter 17: 'Regression to the Mean'
+
+- philosophical vibe
+This chapter was one of the most memorable for me.
 
