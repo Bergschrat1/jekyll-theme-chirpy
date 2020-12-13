@@ -28,7 +28,7 @@ I will write about:
 
 Obviously I can't just go full-nerd-mode without doing the classic anime-person-pushes-glasses-up move.
 
-![](/img/areyouahacker/anime_glasses.gif){:height="56%"}
+![](/img/areyouahacker/anime_glasses.gif)
 
 
 ## What's Linux?
