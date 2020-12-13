@@ -18,17 +18,18 @@ Since I got asked way to often "Why does your Windows look so weird?", I decided
 
 I will write about:
 
-1. [What's Linux?](#What)
+1. [What's Linux?](#whats-linux)
 
-2. [What are the advantages of Linux?]
+2. [What are the advantages of Linux?](#what-are-the-advantages-of-linux)
 
-3. [Why is nobody using Linux?](#Why is nobody using Linux then?)
+3. [Why is nobody using Linux?](#why-is-nobody-using-linux-then)
 
-4. [Some tips for switching to Linux.][Convinced?]
+4. [Some tips for switching to Linux.](#convinced)
 
 Obviously I can't just go full-nerd-mode without doing the classic anime-person-pushes-glasses-up move.
 
 ![](/img/areyouahacker/anime_glasses.gif){:height="56%"}
+
 
 ## What's Linux?
 
@@ -126,7 +127,7 @@ One reason for why I was not using Linux for a long time myself is the incompati
 
 Another likely reason for the high market share of Windows is that Microsoft just has more money to spend on advertising and to pay hardware manufacturers for pre-installing Windows on their devices.
 
-## Convinced?
+## Convinced? {#convinced}
 
 If you made it this far you are probably really desperate to find a better operating system for your PC. In that case I want to give you some more hints on where to get started with your own Linux system.
 
