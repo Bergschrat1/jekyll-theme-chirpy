@@ -18,17 +18,18 @@ Since I got asked way to often "Why does your Windows look so weird?", I decided
 
 I will write about:
 
-1. [What's Linux?]
+1. [What's Linux?](#whats-linux)
 
-2. [What are the advantages of Linux?]
+2. [What are the advantages of Linux?](#what-are-the-advantages-of-linux)
 
-3. [Why is nobody using Linux?][Why is nobody using Linux then?]
+3. [Why is nobody using Linux?](#why-is-nobody-using-linux-then)
 
-4. [Some tips for switching to Linux.][Convinced?]
+4. [Some tips for switching to Linux.](#convinced)
 
 Obviously I can't just go full-nerd-mode without doing the classic anime-person-pushes-glasses-up move.
 
-![](/img/posts/areyouahacker/anime_glasses.gif){width=90%}
+![](/img/areyouahacker/anime_glasses.gif){:height="56%"}
+
 
 ## What's Linux?
 
@@ -68,9 +69,9 @@ For me personally this is the most important reason. If there is something that 
 
 But of course there are people who don't want to think about customization at all. For these people there are a bunch of distributions that come perfectly pre-configured. The most common one is probably Ubuntu which I always recommend to beginners.
 
-To get an overview of how far the Linux-customization can go I recommend having a look at [/r/unixporn](https://www.reddit.com/r/unixporn).
+To get an overview of how far the Linux-customization can go I recommend having a look at [/r/unixporn](https://www.reddit.com/r/unixporn), a subreddit in which people can show of their customized desktops.
 
-![<sub> My current setup. (Manjaro Linux, i3wm, solarized)](/img/posts/areyouahacker/linux_interface.png){width=90%}
+![My current setup. (Manjaro Linux, i3wm, solarized)](/img/areyouahacker/linux_interface.png){:width="90%"}
 
 ### 5. Ease of use
 I know, I know this is a sensitive topic. For many people this is the only reason to not use Linux. And many of them (I'm talking from personal experience) get very butthurt when someone argues against the believe that Linux is soooo hard to learn.
@@ -126,7 +127,7 @@ One reason for why I was not using Linux for a long time myself is the incompati
 
 Another likely reason for the high market share of Windows is that Microsoft just has more money to spend on advertising and to pay hardware manufacturers for pre-installing Windows on their devices.
 
-## Convinced?
+## Convinced? {#convinced}
 
 If you made it this far you are probably really desperate to find a better operating system for your PC. In that case I want to give you some more hints on where to get started with your own Linux system.
 
