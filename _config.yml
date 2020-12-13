@@ -10,11 +10,11 @@
 
 title: GeekReadRepeat                          # the main title
 
-tagline: Personal blog with a focus on books and geeky stuff. # it will display as the sub-title
+tagline: Personal blog with a focus on books and tech stuff. # it will display as the sub-title
 
 description: This is my little blog where I will post stuff about tech and books.                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "http://geekreadrepeat.com/"
+url: "https://www.geekreadrepeat.com/"
 
 author: J.K.                  # change to your full name
 
