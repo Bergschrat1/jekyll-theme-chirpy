@@ -86,6 +86,7 @@ markdown: kramdown
 highlighter: kramdown
 
 kramdown:
+  auto_ids: true
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
@@ -94,7 +95,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: true
+      line_numbers: false
       start_line: 1
 
 # DO NOT change this unless you're a Pro user on Jekyll and Web development,
