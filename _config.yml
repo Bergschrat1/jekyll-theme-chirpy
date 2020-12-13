@@ -26,6 +26,12 @@ github:
 #twitter:
 #  username: twitter_username            # change to your twitter username
 
+plugins:
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+
 social:
   name: J.K.                  # it will shows as the copyright owner in Footer
   email: jokeh@gmx.de             # change to your email address
